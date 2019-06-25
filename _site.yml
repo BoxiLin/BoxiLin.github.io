@@ -1,0 +1,16 @@
+name: "Boxi Lin"
+output_dir: "."
+navbar:
+  title: "Boxi Lin"
+  left:
+    - text: "CV"
+      href: cv.html
+  right:
+    - icon: fa-github fa-lg
+      href: http://github.com/BoxiLin
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/boxi-lin-00160192/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
