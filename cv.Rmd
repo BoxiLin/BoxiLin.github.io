@@ -1,0 +1,41 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+Education
+---------
+
+- Sept.2017 - May 2019
+:   **Master of Math, Statistics**,  University of Waterloo (Waterloo, Ontario, Canada)
+
+    *Topic: Semiparametric inference of two zero-excess populations under a density ratio model*
+
+- Sept.2014 - May 2017
+:   **Bachelor of Math, Statistics & Computational Math**, University of Waterloo (Waterloo, Ontario, Canada)
+
+Work Experience
+----------
+
+- May-Dec. 2018; Apr.-Sept.2019
+:  **Biostatistician Intern**, Ontario Institute for Cancer Research (Toronto, Ontario, Canada)
+
+Research Projects
+--------------------
+
+- Quantifying the Varying Selective Processes of Pre-Tumour and Tumour Evolution fromHigh-Coverage Sequence Data
+:   Poster: 2018 Annual Meeting of the American Society of Human Genetics, October 16-20, 2018
+
+
+
+- MP-BioPath:   A  computational  tool  for  inferring  the  functional  impact  of  mutationalprofiles on pathway level activity
+:   Poster: Cold Spring Harbor Meetings and Courses Program - Biological Data Science, November 7-10, 2018
+
+
+
+- Semiparametric Inference of Two Zero-excess Populations under a Density Ratio Model
+:    
+    
+
+
