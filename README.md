@@ -1,2 +1,2 @@
-# boxi.github.io
+# boxilin.github.io
 Personal website
