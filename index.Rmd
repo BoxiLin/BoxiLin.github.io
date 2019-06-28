@@ -5,7 +5,6 @@ title: "About"
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 
-
 <script type="text/javascript">
     //<!CDATA[
         var bodyBgs = [];
@@ -29,13 +28,12 @@ title: "About"
         var randomBgIndex = Math.floor(Math.random() * 16);
 
     //
-        document.write("<img src="+ bodyBgs[randomBgIndex] + " style='height:230px; border:1px solid; margin-right: 10px' align='right' >" );
+        document.write("<img src="+ bodyBgs[randomBgIndex] + " style='height:210px; border:1px solid; margin-right: 10px' align='left' >" );
     //]]>
     </script>
 
-&nbsp;&nbsp;
 
-
+&nbsp;
 
 
 Hello! I am interested in computational statistics and statistical genetics. 
@@ -43,16 +41,14 @@ Hello! I am interested in computational statistics and statistical genetics.
 I graduated from the [University of Waterloo](https://uwaterloo.ca/statistics-and-actuarial-science/) with a MMath in Statistics in 2019. Currently I investigate questions related to cancer evolutionary process at [Ontario Institute for Cancer Research](https://oicr.on.ca/). In Sepetember 2019, I will pursue Ph.D. in Biostatistics at the [University of Toronto](http://www.dlsph.utoronto.ca/division/biostatistics/).
 
 
-&nbsp;&nbsp;
-
-&nbsp;&nbsp;
-
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
+&nbsp;
 
 
+
+&nbsp;
+
+
+&nbsp;
 
 ---
 
