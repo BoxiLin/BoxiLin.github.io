@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boxi Lin</title>
+    <link>/</link>
+    <description>Recent content on Boxi Lin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reading List (December 2019)</title>
+      <link>/posts/reading-list/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/reading-list/</guid>
+      <description> To explain or to predict? - Galit Shmueli Common statistical tests are linear models (or: how to teach stats) - Jonas Kristoffer Lindeløv, 中文版 因果革命 - 于淼 Combining p-values via averaging - Vladimir Vovk, Ruodu Wang How to finish a Ph.D. - Matthias Schonlau   </description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hello! My name is Boxi Lin. I am interested in computational statistics and genetic data analysis.
+Currently I am pursuing Ph.D. in Biostatistics at the University of Toronto, under the supervision of Lei Sun. Before that I completed my M.Math and B.Math in Statistics at the University of Waterloo, supervised by Pengfei Li.
+Usually I am an awkward self-introducer. If you&#39;d like to know a little more about me, please click repeatedly on my name on the top-left.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Email: boxi.lin[at]mail.utoronto.ca</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description>Education   Sept.2019 - Present: Ph.D. in Biostatistics
+University of Toronto (Toronto, Ontario, Canada)
+  Sept.2017 - May 2019: Master of Math, Statistics
+University of Waterloo (Waterloo, Ontario, Canada)
+Essay topic: Semiparametric inference of two zero-excess populations under a density ratio model;
+Supervisor: Pengfei Li
+  Sept.2014 - May 2017: Bachelor of Math, Statistics &amp;amp; Computational Math
+University of Waterloo (Waterloo, Ontario, Canada)
+  Work Experience   Oct.</description>
+    </item>
+    
+  </channel>
+</rss>
