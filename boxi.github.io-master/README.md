@@ -1,2 +1,0 @@
-# boxi
-Personal website
