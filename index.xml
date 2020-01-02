@@ -6,7 +6,7 @@
     <description>Recent content on Boxi Lin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>Reading List (December 2019)</title>
       <link>/posts/reading-list/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/posts/reading-list/</guid>
-      <description> To explain or to predict? - Galit Shmueli Common statistical tests are linear models (or: how to teach stats) - Jonas Kristoffer Lindeløv, 中文版 因果革命 - 于淼 Combining p-values via averaging - Vladimir Vovk, Ruodu Wang How to finish a Ph.D. - Matthias Schonlau   </description>
+      <description> To explain or to predict? - Galit Shmueli Common statistical tests are linear models (or: how to teach stats), 中文版 因果革命 - 于淼 Combining p-values via averaging - Vladimir Vovk, Ruodu Wang Sensitivity Analysis in Observational Research: Introducing the E-Value How to finish a Ph.D. - Matthias Schonlau   </description>
     </item>
     
     <item>
@@ -39,7 +39,7 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <guid>/about/</guid>
       <description>Hello! My name is Boxi Lin. I am interested in computational statistics and genetic data analysis.
 Currently I am pursuing Ph.D. in Biostatistics at the University of Toronto, under the supervision of Lei Sun. Before that I completed my M.Math and B.Math in Statistics at the University of Waterloo, supervised by Pengfei Li.
-Usually I am an awkward self-introducer. If you&#39;d like to know a little more about me, please click repeatedly on my name on the top-left.</description>
+Usually my self-introduction is awkward. If you&#39;d like to know a little more about me, please click repeatedly on my name on the top-left.</description>
     </item>
     
     <item>

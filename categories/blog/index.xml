@@ -6,7 +6,7 @@
     <description>Recent content in blog on Boxi Lin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>Reading List (December 2019)</title>
       <link>/posts/reading-list/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/posts/reading-list/</guid>
-      <description> To explain or to predict? - Galit Shmueli Common statistical tests are linear models (or: how to teach stats) - Jonas Kristoffer Lindeløv, 中文版 因果革命 - 于淼 Combining p-values via averaging - Vladimir Vovk, Ruodu Wang How to finish a Ph.D. - Matthias Schonlau   </description>
+      <description> To explain or to predict? - Galit Shmueli Common statistical tests are linear models (or: how to teach stats), 中文版 因果革命 - 于淼 Combining p-values via averaging - Vladimir Vovk, Ruodu Wang Sensitivity Analysis in Observational Research: Introducing the E-Value How to finish a Ph.D. - Matthias Schonlau   </description>
     </item>
     
   </channel>

@@ -4,7 +4,7 @@
   
   <url>
     <loc>/zh/categories/blog/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>/zh/categories/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,13 +33,13 @@
   </url>
   
   <url>
-    <loc>/zh/posts/dont-read-me/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+    <loc>/zh/tags/non-academic/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/zh/posts/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,7 +54,7 @@
   
   <url>
     <loc>/zh/tags/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,13 +68,8 @@
   </url>
   
   <url>
-    <loc>/zh/tags/temp/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/zh/</loc>
-    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -85,6 +80,21 @@
                 hreflang="zh"
                 href="/zh/"
                 />
+  </url>
+  
+  <url>
+    <loc>/zh/posts/%E8%81%9A%E4%BC%9A%E8%8F%9C%E8%B0%B1/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/posts/dont-read-me/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/tags/temp/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
