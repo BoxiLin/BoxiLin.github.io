@@ -17,18 +17,7 @@
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/reading-list/</guid>
-      <description> To explain or to predict? - Galit Shmueli Common statistical tests are linear models (or: how to teach stats), 中文版 因果革命 - 于淼 Combining p-values via averaging - Vladimir Vovk, Ruodu Wang Sensitivity Analysis in Observational Research: Introducing the E-Value How to finish a Ph.D. - Matthias Schonlau  动手学深度学习 [Geometric Representation of High Dimension, Low Sample Size Data] The cancer genome A tutorial on conducting genome‐wide association studies: Quality control and statistical analysis  </description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
+      <description> To explain or to predict? - Galit Shmueli Common statistical tests are linear models (or: how to teach stats), 中文版 因果革命 - 于淼 Combining p-values via averaging - Vladimir Vovk, Ruodu Wang Sensitivity Analysis in Observational Research: Introducing the E-Value How to finish a Ph.D. - Matthias Schonlau  动手学深度学习 Geometric Representation of High Dimension, Low Sample Size Data The cancer genome A tutorial on conducting genome‐wide association studies: Quality control and statistical analysis  </description>
     </item>
     
     <item>
