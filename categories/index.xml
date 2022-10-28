@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Boxi Lin</title>
-    <link>/categories/</link>
+    <link>http://boxilin.github.io/categories/</link>
     <description>Recent content in Categories on Boxi Lin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://boxilin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>blog</title>
-      <link>/categories/blog/</link>
+      <link>http://boxilin.github.io/categories/blog/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/blog/</guid>
+      <guid>http://boxilin.github.io/categories/blog/</guid>
       <description></description>
     </item>
     

@@ -1,9 +1,9 @@
 {
-    "path" : "~/Documents/academic/website/newWebsite/BoxiLin.github.io/zh/images",
-    "sortOrder" : [
+    "path": "~/Documents/GitHub/BoxiLin.github.io",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }

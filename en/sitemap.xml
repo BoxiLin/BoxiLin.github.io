@@ -3,143 +3,143 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/blog/</loc>
+    <loc>http://boxilin.github.io/categories/blog/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/categories/blog/"
+                href="http://boxilin.github.io/zh/categories/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/blog/"
+                href="http://boxilin.github.io/categories/blog/"
                 />
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>http://boxilin.github.io/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/"
+                href="http://boxilin.github.io/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="http://boxilin.github.io/"
                 />
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://boxilin.github.io/categories/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/categories/"
+                href="http://boxilin.github.io/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="http://boxilin.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>http://boxilin.github.io/previous_post/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/posts/"
+                href="http://boxilin.github.io/zh/previous_post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/posts/"
+                href="http://boxilin.github.io/previous_post/"
                 />
   </url>
   
   <url>
-    <loc>/tags/read-list/</loc>
+    <loc>http://boxilin.github.io/tags/read-list/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/reading-list/</loc>
+    <loc>http://boxilin.github.io/previous_post/reading-list/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://boxilin.github.io/tags/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/tags/"
+                href="http://boxilin.github.io/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="http://boxilin.github.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>http://boxilin.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/about/"
+                href="http://boxilin.github.io/zh/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/"
+                href="http://boxilin.github.io/about/"
                 />
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>http://boxilin.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/contact/"
+                href="http://boxilin.github.io/zh/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/contact/"
+                href="http://boxilin.github.io/contact/"
                 />
   </url>
   
   <url>
-    <loc>/cv/</loc>
+    <loc>http://boxilin.github.io/cv/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/cv/"
+                href="http://boxilin.github.io/zh/cv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/cv/"
+                href="http://boxilin.github.io/cv/"
                 />
   </url>
   
   <url>
-    <loc>/series/</loc>
+    <loc>http://boxilin.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/series/"
+                href="http://boxilin.github.io/zh/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/series/"
+                href="http://boxilin.github.io/series/"
                 />
   </url>
   
