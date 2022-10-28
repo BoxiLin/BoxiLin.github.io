@@ -38,17 +38,17 @@
   </url>
   
   <url>
-    <loc>http://boxilin.github.io/zh/previous_post/</loc>
+    <loc>http://boxilin.github.io/zh/posts/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://boxilin.github.io/previous_post/"
+                href="http://boxilin.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://boxilin.github.io/zh/previous_post/"
+                href="http://boxilin.github.io/zh/posts/"
                 />
   </url>
   
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://boxilin.github.io/zh/previous_post/%E8%81%9A%E4%BC%9A%E8%8F%9C%E8%B0%B1/</loc>
+    <loc>http://boxilin.github.io/zh/posts/%E8%81%9A%E4%BC%9A%E8%8F%9C%E8%B0%B1/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
