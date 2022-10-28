@@ -1,0 +1,44 @@
+<section class="container centered">
+  <div class="about">
+    {{ with .Site.Params.avatarurl }}
+    <div class="avatar">
+      <script type="text/javascript">
+      //<!CDATA[
+          var bodyBgs = [];
+          bodyBgs[0] = "images/01.jpg";
+          bodyBgs[1] = "images/02.jpg";
+          bodyBgs[2] = "images/03.jpg";
+          bodyBgs[3] = "images/04.jpg";
+          bodyBgs[4] = "images/05.jpg";
+          bodyBgs[5] = "images/06.jpg";
+          bodyBgs[6] = "images/07.jpg";
+
+
+          var randomBgIndex = Math.floor(Math.random() * 7);
+
+      //
+          document.write("<img src="+ bodyBgs[randomBgIndex] + " alt='avatar'>" );
+      //]]>
+      </script></div>
+    {{ end }}
+    <h1>{{ .Site.Params.author }}</h1>
+    <h2><a href="https://biostatistics.utoronto.ca/">{{ .Site.Params.info }}</a></h2>
+    {{ with .Site.Params.social }}
+    <ul>
+      {{ range sort .}}
+        {{ if .icon }}
+          <li>
+            <a href="{{ .url }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }}>
+              <i class="{{ .icon }}" aria-hidden="true"></i>
+            </a>
+          </li>
+        {{ else }}
+          <li>
+            <a href="{{ .url }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }}>{{ .name }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+    {{ end }}
+  </div>
+</section>
