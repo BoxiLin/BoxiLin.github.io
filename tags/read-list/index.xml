@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>read-list on Boxi Lin</title>
-    <link>http://boxilin.github.io/tags/read-list/</link>
+    <link>https://boxilin.github.io/tags/read-list/</link>
     <description>Recent content in read-list on Boxi Lin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://boxilin.github.io/tags/read-list/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://boxilin.github.io/tags/read-list/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Reading List</title>
-      <link>http://boxilin.github.io/posts/reading-list/</link>
+      <link>https://boxilin.github.io/posts/reading-list/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://boxilin.github.io/posts/reading-list/</guid>
+      <guid>https://boxilin.github.io/posts/reading-list/</guid>
       <description> To explain or to predict? - Galit Shmueli Common statistical tests are linear models (or: how to teach stats), 中文版 因果革命 - 于淼 Combining p-values via averaging - Vladimir Vovk, Ruodu Wang Sensitivity Analysis in Observational Research: Introducing the E-Value How to finish a Ph.D. - Matthias Schonlau  动手学深度学习 Geometric Representation of High Dimension, Low Sample Size Data The cancer genome A tutorial on conducting genome‐wide association studies: Quality control and statistical analysis  </description>
     </item>
     

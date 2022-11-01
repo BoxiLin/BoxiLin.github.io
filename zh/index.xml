@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>林柏西</title>
-    <link>http://boxilin.github.io/zh/</link>
+    <link>https://boxilin.github.io/zh/</link>
     <description>Recent content on 林柏西</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://boxilin.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://boxilin.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>聚会菜谱</title>
-      <link>http://boxilin.github.io/zh/posts/%E8%81%9A%E4%BC%9A%E8%8F%9C%E8%B0%B1/</link>
+      <link>https://boxilin.github.io/zh/posts/%E8%81%9A%E4%BC%9A%E8%8F%9C%E8%B0%B1/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://boxilin.github.io/zh/posts/%E8%81%9A%E4%BC%9A%E8%8F%9C%E8%B0%B1/</guid>
+      <guid>https://boxilin.github.io/zh/posts/%E8%81%9A%E4%BC%9A%E8%8F%9C%E8%B0%B1/</guid>
       <description>  啤酒炖牛小排(2人份)
  材料比例：sobeys牛小排6小块，啤酒1罐473ml(Miller Lite &amp;lt;难喝，但做菜还行&amp;gt;), 6瓣蒜，八角1颗，冰糖1粒，花椒8颗。   牛小排退冻清洗血水，擦干；撒盐和黑胡椒；裹地瓜粉/生粉； 中小火，少量底油，融化一小块黄油，煎牛小排至微焦；多余牛油可以捞出做土豆泥； 倒入啤酒，少量酱油，蒜瓣，八角，冰糖，花椒，补温开水没过牛小排；大火烧开； 转小火，保持刚开状态，炖3小时； 加入葱白末，大火收汁；汤汁不要全收干。  参考：https://www.allrecipes.com/recipe/162690/simple-beef-short-ribs/
   土豆泥(2人份)
@@ -28,19 +28,19 @@
     
     <item>
       <title>关于我</title>
-      <link>http://boxilin.github.io/zh/about/</link>
+      <link>https://boxilin.github.io/zh/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://boxilin.github.io/zh/about/</guid>
+      <guid>https://boxilin.github.io/zh/about/</guid>
       <description>Under construction</description>
     </item>
     
     <item>
       <title>简历</title>
-      <link>http://boxilin.github.io/zh/cv/</link>
+      <link>https://boxilin.github.io/zh/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://boxilin.github.io/zh/cv/</guid>
+      <guid>https://boxilin.github.io/zh/cv/</guid>
       <description>Submitted Lin, B., and Sun, L., Better together against genetic effect heterogeneity: a sex-combined interaction analysis of testosterone levels in the UK Biobank data
 Lin, B., Gong, J., Panjwani, N., Keenan, K., Lin, F., Sun, L. and Strug, L., Genome-Wide Association Study of Susceptibility to Pseudomonas aeruginosa Infection in Cystic Fibrosis
 Publication Yuan, M., Wang, C., Lin, B. and Li, P. (2022) Semiparametric inference on general functionals of two semicontinuous populations.</description>
@@ -48,10 +48,10 @@ Publication Yuan, M., Wang, C., Lin, B. and Li, P. (2022) Semiparametric inferen
     
     <item>
       <title>联系我</title>
-      <link>http://boxilin.github.io/zh/contact/</link>
+      <link>https://boxilin.github.io/zh/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://boxilin.github.io/zh/contact/</guid>
+      <guid>https://boxilin.github.io/zh/contact/</guid>
       <description>邮箱：boxi.lin[at]mail.utoronto.ca</description>
     </item>
     
